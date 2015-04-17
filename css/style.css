@@ -1,0 +1,15 @@
+body {
+  background-color: #333a42;
+  overflow: hidden;
+  font-family: monospace;
+  color: #fff;
+}
+.report-box {
+  width: 600px;
+  margin: 120px auto 0 auto;
+  font-size: 24px;
+}
+.welcome-msg {
+  font-size: 48px;
+  margin-bottom: 24px;
+}

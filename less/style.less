@@ -1,0 +1,44 @@
+@space-xl:                    60px;
+@space-lg:                    48px;
+@space-xm:                    32px;
+@space-md:                    @space-lg / 2; // 24px
+@space-sm:                    @space-lg / 4; // 12px;
+
+@body-bg:                     #333A42;
+@accent-color:                #03B48D;
+
+@margin-subbox:               6px;
+@box-space:                   ( @space-xl + ( @margin-subbox * 2 ) ) * 3;
+
+// canvas {
+//   position: absolute;
+//   margin: auto;
+//   top: 0;
+//   bottom: 0;
+//   left: 0;
+//   right: 0;
+//   background-color: #F5F5DC;
+//   border: 1px solid red;
+// }
+
+body {
+  background-color: @body-bg;
+  overflow: hidden;
+  font-family: monospace;
+  color: #fff;
+}
+
+.page {
+
+}
+
+.report-box {
+  width: @space-xl * 10;
+  margin: @space-sm * 10 auto 0 auto;
+  font-size: @space-md;
+}
+
+.welcome-msg {
+  font-size: @space-lg;
+  margin-bottom: @space-md;
+}
