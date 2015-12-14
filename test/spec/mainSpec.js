@@ -15,7 +15,7 @@ var obj,
 
 beforeEach(function() {
 
-  //initialize object
+  // initialize object
   obj = new Object();
 
   jasmine.addMatchers({
