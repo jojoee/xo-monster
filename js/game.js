@@ -33,7 +33,7 @@ var isDebug = true,
   nTurn = 0,
   nXFunCall = 0,
 
-  isAnimate = true,
+  isAnimate = true, // unused
 
   winPoss = new Array();
 
