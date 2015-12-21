@@ -14,10 +14,13 @@
 - [ ] Complete unit test
 - [ ] create acceptance test
 - [ ] User can upload bot code and compute it
-- [ ] Create `gh-pages` branch and change it to be default branch
+- [ ] Create `gh-pages` branch and update it to be default branch
 - [ ] Remove `master` branch
 - [ ] Add animation
 - [ ] Update board size to 4x4 (currently, board size is 3x3)
 - [ ] Add recalculate button
 - [ ] Auto recalculate when 5 secs have passed
 - [ ] Update `Demo` and `Test` URL
+- [ ] Use `bower` for 3rd party dependency (`font-awesome`, `jquery`, `jasmine`)
+- [ ] Use CDN for production
+- [ ] Add gulp
