@@ -1,15 +1,23 @@
 # XO monster
-(In Progress) tic tac tao 4x4, match 3 - [Demo](http://demo.jojoee.com/xo-monster) | [Test](http://demo.jojoee.com/xo-monster/test/SpecRunner.html)
+(In Progress) Tic Tac Tao 4x4, Algorithm Competition - [Demo](http://demo.jojoee.com/xo-monster) | [Test](http://demo.jojoee.com/xo-monster/test/SpecRunner.html)
 
+## Note
+
+- 2 spaces to indent
 - Code Standard : [Wordpress Javascript](https://make.wordpress.org/core/handbook/coding-standards/javascript/)
 - Test : [Jasmine](http://jasmine.github.io/)
 - DocBlocks : [jsDoc](http://usejsdoc.org/)
 
-## Note
-- Use 2 spaces to indent
-- User can upload bot code and compute it
+## Todo
 
-## Future updates
-- Create recalculate button
-- Remove the others such as all about canvas
-- More test
+- [ ] Remove the others such as all about canvas
+- [ ] Complete unit test
+- [ ] create acceptance test
+- [ ] User can upload bot code and compute it
+- [ ] Create `gh-pages` branch and change it to be default branch
+- [ ] Remove `master` branch
+- [ ] Add animation
+- [ ] Update board size to 4x4 (currently, board size is 3x3)
+- [ ] Add recalculate button
+- [ ] Auto recalculate when 5 secs have passed
+- [ ] Update `Demo` and `Test` URL
