@@ -1,5 +1,5 @@
 # XO monster
-(In Progress) Tic Tac Tao 4x4, Algorithm Competition - [Demo](http://demo.jojoee.com/xo-monster) | [Test](http://demo.jojoee.com/xo-monster/test/SpecRunner.html)
+(In Progress) Tic Tac Tao 4x4, Algorithm Competition - [Demo](http://jojoee.github.io/xo-monster/) | [Test](http://jojoee.github.io/xo-monster/test/SpecRunner.html)
 
 ## Note
 
